@@ -1,0 +1,7 @@
+Para abrir el miniproyecto entramos a la carpeta src y ejecutamos calculadora_matrices.py. En el archivo resultados.txt quedan guardados las operaciones de matrices realizadas
+
+El archivo con las graficas de funciones(escalón, lineal, tangente, sigmoidal y gauss) se encuentra en la ruta src/grafica_funciones/
+
+Los archivos con las graficas de los ejercicios(4 - 10)se encuentra en la ruta src/grafica_ejercicios/
+
+El taller con los puntos de investigación se encuentra el la carpeta src y su nombre es TALLER1_IA.pdf
